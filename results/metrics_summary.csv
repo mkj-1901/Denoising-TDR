@@ -1,0 +1,61 @@
+﻿Batch,Method,Rule,PSNR_dB,BoundViolations
+clean,Gaussian,noisy y,18.51,0.0
+clean,Gaussian,noisy y,13.56,0.0
+clean,Gaussian,x* (R=inf),30.70,N/A
+clean,Gaussian,x* (R=inf),26.94,N/A
+clean,Gaussian,TDR-Init,18.30,0.0
+clean,Gaussian,TDR-Init,14.64,0.0
+clean,Gaussian,Ambient-Obs,30.73,5.1
+clean,Gaussian,Ambient-Obs,24.89,28.7
+clean,Gaussian,Ambient-Clean,30.91,5.1
+clean,Gaussian,Ambient-Clean,27.12,30.3
+clean,AmbientMean,noisy y,18.51,0.0
+clean,AmbientMean,noisy y,13.56,0.0
+clean,AmbientMean,x* (R=inf),33.24,N/A
+clean,AmbientMean,x* (R=inf),14.27,N/A
+clean,AmbientMean,TDR-Init,18.51,0.0
+clean,AmbientMean,TDR-Init,13.56,0.0
+clean,AmbientMean,Ambient-Obs,33.20,4.5
+clean,AmbientMean,Ambient-Obs,14.26,3.0
+clean,AmbientMean,Ambient-Clean,33.81,4.5
+clean,AmbientMean,Ambient-Clean,14.26,3.0
+denoising_gaussian001,Gaussian,noisy y,18.51,0.0
+denoising_gaussian001,Gaussian,noisy y,13.56,0.0
+denoising_gaussian001,Gaussian,x* (R=inf),30.70,N/A
+denoising_gaussian001,Gaussian,x* (R=inf),26.94,N/A
+denoising_gaussian001,Gaussian,TDR-Init,18.30,0.0
+denoising_gaussian001,Gaussian,TDR-Init,14.64,0.0
+denoising_gaussian001,Gaussian,Ambient-Obs,30.73,5.1
+denoising_gaussian001,Gaussian,Ambient-Obs,24.89,28.7
+denoising_gaussian001,Gaussian,Ambient-Clean,30.91,5.1
+denoising_gaussian001,Gaussian,Ambient-Clean,27.12,30.3
+denoising_gaussian001,AmbientMean,noisy y,18.51,0.0
+denoising_gaussian001,AmbientMean,noisy y,13.56,0.0
+denoising_gaussian001,AmbientMean,x* (R=inf),33.24,N/A
+denoising_gaussian001,AmbientMean,x* (R=inf),14.27,N/A
+denoising_gaussian001,AmbientMean,TDR-Init,18.51,0.0
+denoising_gaussian001,AmbientMean,TDR-Init,13.56,0.0
+denoising_gaussian001,AmbientMean,Ambient-Obs,33.20,4.5
+denoising_gaussian001,AmbientMean,Ambient-Obs,14.26,3.0
+denoising_gaussian001,AmbientMean,Ambient-Clean,33.81,4.5
+denoising_gaussian001,AmbientMean,Ambient-Clean,14.26,3.0
+denoising_poisson_b1000b,Gaussian,noisy y,18.51,0.0
+denoising_poisson_b1000b,Gaussian,noisy y,13.56,0.0
+denoising_poisson_b1000b,Gaussian,x* (R=inf),30.70,N/A
+denoising_poisson_b1000b,Gaussian,x* (R=inf),26.94,N/A
+denoising_poisson_b1000b,Gaussian,TDR-Init,18.30,0.0
+denoising_poisson_b1000b,Gaussian,TDR-Init,14.64,0.0
+denoising_poisson_b1000b,Gaussian,Ambient-Obs,30.73,5.1
+denoising_poisson_b1000b,Gaussian,Ambient-Obs,24.89,28.7
+denoising_poisson_b1000b,Gaussian,Ambient-Clean,30.91,5.1
+denoising_poisson_b1000b,Gaussian,Ambient-Clean,27.12,30.3
+denoising_poisson_b1000b,AmbientMean,noisy y,18.51,0.0
+denoising_poisson_b1000b,AmbientMean,noisy y,13.56,0.0
+denoising_poisson_b1000b,AmbientMean,x* (R=inf),33.24,N/A
+denoising_poisson_b1000b,AmbientMean,x* (R=inf),14.27,N/A
+denoising_poisson_b1000b,AmbientMean,TDR-Init,18.51,0.0
+denoising_poisson_b1000b,AmbientMean,TDR-Init,13.56,0.0
+denoising_poisson_b1000b,AmbientMean,Ambient-Obs,33.20,4.5
+denoising_poisson_b1000b,AmbientMean,Ambient-Obs,14.26,3.0
+denoising_poisson_b1000b,AmbientMean,Ambient-Clean,33.81,4.5
+denoising_poisson_b1000b,AmbientMean,Ambient-Clean,14.26,3.0
